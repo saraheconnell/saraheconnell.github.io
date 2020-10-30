@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+In my professional life I'm the assistant director of the Women Writers Project and the NULab for Texts, Maps, and Networks at Northeastern University. On the weekends, I spend whatever time I can steal outside and I've always enjoyed looking for interesting plants and animals, and learning about the natural world. 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+I set this page up as a way to learn more about GitHub Pages and as a test example for the NULab Project Seminar course that I co-teach with [Julia Flanders](https://juliaflanders.github.io/).
