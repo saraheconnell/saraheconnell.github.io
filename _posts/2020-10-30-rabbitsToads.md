@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Initial analysis: rabbits, toads, and voles
+title: Initial analysis—rabbits, toads, and voles
 ---
 
-We're almost at the end of October and it snowed yesterday, so the time seemed about right to take stock of an activity that I'd initially designated for the summer of 2020. There was a pleasurable tactility to keeping my animal notes by hand, but I knew that if I wanted to do any analysis of these, I'd need a digital version. I decided to set up a very straightforward table, with one column for the name of the animals and another for dates—this approach seemed like it would give me the best leverage for later analysis, even though it meant I needed to repeat the names of the animals many times. It didn't take long, probably less than an hour, to enter all the information I'd been collecting by hand since April (this task was made much easier because I was able to grab an external keyboard and use the number pad). You can download a csv file with all of my results [here]({{ site.baseurl }}/data/nature-journal.csv).
+We're almost at the end of October and it snowed yesterday, so the time seemed about right to take stock of an activity that I'd initially designated for the summer of 2020. There was a pleasurable tactility to keeping my animal notes by hand, but I knew that if I wanted to do any analysis of these, I'd need a digital version. I decided to set up a very straightforward table, with one column for the name of the animals and another for dates—this approach seemed like it would give me the best leverage for later analysis, even though it meant I needed to repeat the names of the animals many times. It didn't take long, probably less than an hour, to enter all the information I'd been collecting by hand since April (this task was made much easier because I was able to grab an external keyboard and use the number pad). You can download a csv file with all of my results [here]({{ site.baseurl }}/data/nature-journal.csv) and a summary file with just the counts [here]({{ site.baseurl }}/data/nature-journal-counts.csv).
 
 And, at last, I had a table and could start moving from my impressionistic sense of what I'd been observing to actual numbers. The first thing I wanted to check was how many days I'd spotted rabbits, since I knew that they were far and away the animal I'd seen most often. The result: 129 days total. This does not represent how many actual rabbits I saw, which would be a much higher number. Here, my dedication to simplicity of data input meant that my information is less precise than I might wish now that I'm at the exciting point of counting things: I only recorded whether or not I saw an animal on a particular day, not the total number of animals seen, which means that the chart looks the same whether I saw one rabbit or eight. The tension between analytical potential and input effort is particularly clear at this point, and while I would undoubtedly have more satisfying results if I'd included daily totals—not to mention locations—I have to conclude that the most important fact is that I set the journal up to require so little effort that I actually did keep it continuously updated over six very hectic months.  
 
@@ -11,5 +11,5 @@ It was also interesting to look at the animals I saw less frequently, since seve
 
 Below is a table with the overall counts from this summer, broken down by month:
 
-![nature journal charat]({{ site.baseurl }}/images/monthly-totals.jpg)
+![nature journal table]({{ site.baseurl }}/images/monthly-totals.jpg)
 
