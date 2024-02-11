@@ -32,7 +32,7 @@ I can't do anything about items one and three in the list above, but item two is
 - Amphibians (toads, frogs)
 - Crustaceans (various kinds of crabs)
 
-Some animals are distinctive enough that larger categories won't ever be called for (some of my larger categories are aspirational—I would *really* like to see a walrus someday): hummingbirds, kingfishers, bats, and moles (which, I learned while making these categories, are not rodents). 
+Some animals are distinctive enough that larger categories won't ever be called for: hummingbirds, kingfishers, bats, and moles (which, I learned while making these categories, are not rodents). 
 
 So (drumroll), here is what RawGraphs made of my data. To get a sense of just the overall patterns in which kinds of animals I see most often, I tried out the "Circle Packing" chart type. 
 
@@ -56,6 +56,6 @@ Here is 2022:
 And here is 2023:
 ![2023 beeswarm]({{ site.baseurl }}/images/2023-beeswarm.png)
 
-These really make the peaks in animal activity during late spring and summer very visible. They also show some of the places where I spotted large numbers of animals at once, especially in 2022, where you can see those large seal colonies in August, and then a lot of ibises I saw along the Nile in November. In both years, you can see large numbers of turtles in April and May. 2023 also had some really outrageous numbers of rabbits I saw in a few walks in the later summer. 
+These really make the peaks in animal activity during late spring and summer very visible. They also show some of the places where I spotted large numbers of animals at once, especially in 2022, where you can see those large seal colonies in August, and then a lot of egrets I saw along the Nile in November. In both years, you can see large numbers of turtles in April and May. 2023 also had some really outrageous numbers of rabbits I saw in a few walks in the later summer. 
 
-I enjoyed making these charts, but what I learned most from them was that, if I was going to get at that goal of comparing data from one year to another, I would need a different approach. The ibises I saw on the Nile are the most obvious symptom of this issue—in fall of 2022, I was lucky enough to travel with my husband's family to Egypt, and I saw So Many Ibises. This was exciting, of course, but produced some misleading results in the data, especially since I barely left New England in 2023. I'll get to how I chose to handle this question in the next post, though, since this one is already more than long enough! 
+I enjoyed making these charts, but what I learned most from them was that, if I was going to get at that goal of comparing data from one year to another, I would need a different approach. The egrets I saw on the Nile are the most obvious symptom of this issue—in fall of 2022, I was lucky enough to travel with my husband's family to Egypt, and I saw So Many Egrets. This was exciting, of course, but produced some misleading results in the data, espiecially since I barely left New England in 2023. I'll get to how I chose to handle this question in the next post, though, since this one is already more than long enough! 
